@@ -23,4 +23,4 @@ plugins {
 }
 
 
-rootProject.name = "examplemod"
+rootProject.name = "skushgiku4hikgui4"

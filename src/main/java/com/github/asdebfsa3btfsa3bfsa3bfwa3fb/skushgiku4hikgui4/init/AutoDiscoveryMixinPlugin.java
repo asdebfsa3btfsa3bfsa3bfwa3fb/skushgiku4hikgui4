@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.asdebfsa3btfsa3bfsa3bfwa3fb.skushgiku4hikgui4.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
